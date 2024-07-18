@@ -1,4 +1,4 @@
-# sentiment_analysis
+# Sentiment Analysis
 
 Developed and evaluated deep learning models to determine the sentiment attached to a sequence of input texts.
 - Implemented various deep learning models, including recurrent neural networks (RNNs), long short-term memory networks (LSTMs), and transformer-based models, to analyze and classify the sentiment of text sequences.
